@@ -1,1 +1,1 @@
-# Result-management
+Result management system using Php.
