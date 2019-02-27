@@ -1,1 +1,1 @@
-Result management system using Php.
+Result management system based on Php.
