@@ -30,7 +30,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">  
     <head>
         <meta charset="utf-8">  
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
